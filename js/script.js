@@ -2,7 +2,7 @@ import createArticle from './modules/createArticle.js';
 import createArticleEats from './modules/creatArticleEats.js';
 import { creatDrinks, creatEats } from './display.js';
 
-//creatDrinks();
+creatDrinks();
 //меню tab
 const tabDrinks = document.getElementById("tab-drinks");
 const tabEats = document.getElementById("tab-eats");
